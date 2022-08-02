@@ -1,5 +1,11 @@
-Unscramble App
+Unscramble App | FINISHED TO TUTORIAL STANDARD
 ===================================
+
+This Project contains a completed fork of the below Starter Code from Google.
+I haven't added anything yet, this is simply complete to the extent of the Codelab tutorials. 
+
+Google stuff below
+--------------
 
 Starter code for Android Basics codelab - Store the data in a ViewModel
 
